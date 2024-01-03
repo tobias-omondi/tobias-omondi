@@ -31,7 +31,7 @@
 - 👯 I’m looking to collaborate on building more web application 
 - 💬 Ask me about frontend and back
 - 📫 How to reach me: you can reach me via tobiasogola42@gmail.com
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-omondi-8b1945273/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tobias-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-omondi-8b1945273/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
