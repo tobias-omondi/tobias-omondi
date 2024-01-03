@@ -38,13 +38,13 @@
 
 ### :fire: My Stats :
 <div>
-<img align="left" width = "47%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
+<img align="center" width = "47%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
 </div>
 <div>
-<img align="left" width = "48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
+<img align="center" width = "48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
  </div>
  <div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tobias-omondi&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align= "center" src="https://github-readme-streak-stats.herokuapp.com?user=tobias-omondi&theme=dark" alt="GitHub Streak" /></a>
  </div>
 
 
