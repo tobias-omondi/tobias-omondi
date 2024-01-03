@@ -40,12 +40,14 @@
 <img align="left" width = "47%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
 <img align="left" width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&layout=compact"/>
 
+<div>
 <img align="left" alt = react src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" alt = node.js src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="left" alt = npm  src = "https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <img align="left" alt = flask src = 'https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white'/>
 <img align="left" alt =bootstrap src = "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="left" alt = leetcode src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+</div>
 
 
 <div>
