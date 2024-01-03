@@ -1,5 +1,5 @@
 <div id ="header" align = "center">
-  <img src = 'https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif' width = 60% alt = incredible giphy />
+  <img src = 'https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif' width = 40% alt = incredible giphy />
 </div>
 
 ### Hi there, I'm Tobias ! 👋
