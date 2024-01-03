@@ -1,6 +1,10 @@
 <div id ="header" align = "center">
   <img src = 'https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif' width = 40% alt = incredible giphy />
 </div>
+<div id="badges">
+<a href="https://www.linkedin.com/in/tobias-omondi-8b1945273/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 ### Hi there, I'm Tobias ! 👋
 
