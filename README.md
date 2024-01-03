@@ -40,6 +40,10 @@
 <img align="left" width = "47%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
 <img align="left" width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&layout=compact"/>
 
+### :hammer_and_wrench: Languages and Tools :
+<h1>
+  Languages and Tools
+</h1>
 <div>
 <img align="left" alt = react src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img align="left" alt = node.js src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
