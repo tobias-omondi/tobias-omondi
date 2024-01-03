@@ -40,17 +40,7 @@
 <img align="left" width = "47%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
 <img align="left" width = "48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&layout=compact"/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tobias-omondi&theme=dark" alt="GitHub Streak" /></a>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 
   ### :hammer_and_wrench: Languages and Tools :
 <div>
