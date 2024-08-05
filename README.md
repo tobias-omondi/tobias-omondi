@@ -36,6 +36,11 @@
 - ⚡ Fun fact: 
 -->
 
+###  WEBSITE
+<div>
+   <a href = "https://fanakakids-r9wi.vercel.app/">FANAKA KIDS APP </a>
+</div>
+
 ### :fire: My Stats :
 <div>
 <img align="left" width = "46%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
