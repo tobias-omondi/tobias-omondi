@@ -41,7 +41,7 @@
    <a href = "https://fanakakids-r9wi.vercel.app/">FANAKA KIDS APP </a>
 </div>
 <div>
-     <a href = "https://navbar-rho-six.vercel.app/">Climatic Organization </a>
+     <a href = "https://navbar-rho-six.vercel.app/"> Africa Climatic Organization </a>
 </div>
 
 ### :fire: My Stats :
