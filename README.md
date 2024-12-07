@@ -35,7 +35,7 @@
 
 ###  WEBSITE
 <div>
-   <a href = "https://fanakakids-r9wi.vercel.app/">FANAKA KIDS APP </a>
+   <a href = "https://studio-app-nine.vercel.app/">Studio Website </a>
 </div>
 <div>
      <a href = "https://navbar-rho-six.vercel.app/"> Africa Climatic Organization </a>
