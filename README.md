@@ -26,9 +26,7 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- 👯 I’m looking to collaborate on building more web application 
+- 👯 building more web application 
 - 📫 How to reach me: you can reach me via tobiasogola42@gmail.com
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tobias-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-omondi-8b1945273/)
 -->
@@ -56,10 +54,7 @@
   ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img align="left" alt = react src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" alt = node.js src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" alt = npm  src = "https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <img align="left" alt = flask src = 'https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white'/>
-<img align="left" alt =bootstrap src = "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="left" alt = leetcode src = "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 </div>
 
