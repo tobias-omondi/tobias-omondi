@@ -23,10 +23,7 @@
 
 
 ### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-- 👯 building more web application 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. 
 - 📫 How to reach me: you can reach me via tobiasogola42@gmail.com
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tobias-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-omondi-8b1945273/)
 -->
