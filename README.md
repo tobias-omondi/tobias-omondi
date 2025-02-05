@@ -25,6 +25,10 @@
 -->
 
 ### :fire: My Stats :
+<div align = 'end'>
+<img align="end" width = "45%" height = "15%"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
+ </div>
+ 
  <div align = "left">
 <a href="https://git.io/streak-stats"><img align= "center" width = "46%"src="https://github-readme-streak-stats.herokuapp.com?user=tobias-omondi&theme=dark" alt="GitHub Streak" /></a>
  </div>
@@ -32,10 +36,6 @@
 <img align="left" width = "46%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
 </div>
 
-<div>
-<img align="end" width = "45%" height = "15%"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
- </div>
- 
   
   ![Tobias Omondi Graph](https://github-readme-activity-graph.vercel.app/graph?username=tobias-omondi&custom_title=Tobias%20Omondi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </div>
