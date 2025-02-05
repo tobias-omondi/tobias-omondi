@@ -31,8 +31,8 @@
     <img align= "center" width = "46%"src="https://github-readme-streak-stats.herokuapp.com?user=tobias-omondi&theme=dark" alt="GitHub Streak" /></a>
    <img align="left" width = "46%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
  </div>
-<div align = 'end'>
-<img align="end" width = "45%" height = "10%"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
+<div align = 'center'>
+<img align="end" width = "45%"%"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
  </div>
 
   
