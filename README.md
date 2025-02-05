@@ -1,12 +1,17 @@
 <div id="badges" align = "start">
 <a href="https://www.linkedin.com/in/tobias-omondi-8b1945273/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://twitter.com/TobiasOG_">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
+</div>
+<div id="badges" align = "end">
   <img src="https://komarev.com/ghpvc/?username=tobias-omondi&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+
 <h1 align= "center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
