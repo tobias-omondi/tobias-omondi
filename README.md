@@ -12,16 +12,10 @@
 
 
 
-<h1 align= "center">
+<h1 align= "start">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-<img src = "https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
-</div>
-
-
 
 
 ### I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
@@ -30,16 +24,8 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tobias-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-omondi-8b1945273/)
 -->
 
-###  WEBSITE
-<div>
-   <a href = "https://studio-app-nine.vercel.app/">Studio Website </a>
-</div>
-<div>
-     <a href = "https://navbar-rho-six.vercel.app/"> Africa Climatic Organization </a>
-</div>
-
 ### :fire: My Stats :
- <div align = "center">
+ <div align = "left">
 <a href="https://git.io/streak-stats"><img align= "center" width = "46%"src="https://github-readme-streak-stats.herokuapp.com?user=tobias-omondi&theme=dark" alt="GitHub Streak" /></a>
  </div>
 <div>
