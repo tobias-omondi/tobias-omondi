@@ -32,7 +32,7 @@
    <img align="left" width = "46%" src  ="https://github-readme-stats.vercel.app/api?username=tobias-omondi&show_icons=true&theme=radical" />
  </div>
 <div align = 'center'>
-<img align="end" width = "45%"%"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
+<img align="end" width = "45%" height ="5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
  </div>
 
   
