@@ -47,7 +47,7 @@
 <img align="center" width = "45%" height = "20%"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-omondi&theme=dark"/>
  </div>
  
- <div>
+ <div align = "center">
 <a href="https://git.io/streak-stats"><img align= "center" width = "46%"src="https://github-readme-streak-stats.herokuapp.com?user=tobias-omondi&theme=dark" alt="GitHub Streak" /></a>
  </div>
 
