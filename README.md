@@ -1,6 +1,11 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" alt="Typing Boy GIF">
-</div>
+ <div align="center">
++   <img src="assets/creative.jpg" 
++        alt="Tobias Omondi" 
++        width="200" 
++        style="border-radius: 50%; 
++               border: 2px solid #7F3FBF;
++               box-shadow: 0 0 15px rgba(127,63,191,0.4);">
++ </div>
 
 <h1 align="center">
   Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
