@@ -21,11 +21,11 @@
 ---
 
 ### 👨💻 About Me
-I'm a Full Stack Developer from Kenya <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"> with a passion for crafting digital solutions.
+I'm a Full Stack Developer from Kenya <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"> specializing in modern web technologies.
 
-- 🔭 Currently working on full-stack web applications
-- 🌱 Exploring cloud technologies and DevOps practices
-- 💬 Ask me about React, Node.js, or Python
+- 🔭 Crafting robust applications with JavaScript and Python
+- 🌱 Exploring advanced backend architectures
+- 💬 Ask me about React, Django, or database design
 - 📫 Reach me: [tobiasogola42@gmail.com](mailto:tobiasogola42@gmail.com)
 
 ---
@@ -33,10 +33,10 @@ I'm a Full Stack Developer from Kenya <img src="https://cdn-icons-png.flaticon.c
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=sql&logoColor=white)
 
 ---
 
