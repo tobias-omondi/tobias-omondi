@@ -62,8 +62,3 @@ I'm a Full Stack Developer from Kenya <img src="https://cdn-icons-png.flaticon.c
 ### 📈 Activity Graph
 ![Tobias's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tobias-omondi&theme=react-dark&hide_border=true&area=true)
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Coding Footer">
-</div>
