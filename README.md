@@ -35,6 +35,9 @@ I'm a Full Stack Developer from Kenya <img src="https://cdn-icons-png.flaticon.c
 
 ---
 
+### Projects worked on:
+<a href = "https://schoolapplication-one.vercel.app/" > School software </a>
+
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
