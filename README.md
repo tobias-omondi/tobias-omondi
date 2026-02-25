@@ -6,7 +6,7 @@
 
   <br/>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tobias+Omondi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%2B+Django+Specialist;Building+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Tobias+Omondi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;GSAP+%2B+React+UI+Engineer;AI+%26+SaaS+Product+Builder;Shipping+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)
 
   <br/>
 
@@ -34,22 +34,22 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** from Kenya 🇰🇪 passionate about crafting fast, beautiful, and scalable web applications.
+I'm a **Full Stack Developer** from Kenya 🇰🇪 building fast, animated, and intelligent web products.
 
 ```javascript
 const tobias = {
-  location:  "Nairobi, Kenya 🇰🇪",
-  focus:     ["React", "Django", "GSAP Animations"],
-  currently: "Mastering GSAP + React for Awwwards-level UI",
-  goal:      "Build things that make people say WOW",
-  contact:   "tobiasogola42@gmail.com"
+  location : "Nairobi, Kenya 🇰🇪",
+  stack    : ["React", "GSAP", "Django", "JavaScript", "AI"],
+  builds   : ["SaaS Products", "Business Apps", "Animated UIs"],
+  focus    : "Crafting experiences that make people stop scrolling",
+  contact  : "tobiasogola42@gmail.com"
 }
 ```
 
-- 🔭 Building with **React**, **Django** & **GSAP**
-- 🌱 Currently deep-diving into **advanced animations & transitions**
-- ⚡ Check out my work → **[tobzartworkstudio.vercel.app](https://tobzartworkstudio.vercel.app/)**
-- 📫 Reach me at **tobiasogola42@gmail.com**
+- ⚡ Building **high-performance UIs** with React & GSAP animations
+- 🤖 Integrating **AI models** into SaaS and business applications  
+- 🔭 Shipping full-stack products with **Django + React**
+- 🌍 Check out my work → **[tobzartworkstudio.vercel.app](https://tobzartworkstudio.vercel.app/)**
 
 <br clear="right"/>
 
@@ -59,7 +59,7 @@ const tobias = {
 
 <div align="center">
 
-**Frontend**
+**Frontend & Animation**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -68,19 +68,21 @@ const tobias = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend**
+**Backend & AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Tools**
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -108,11 +110,5 @@ const tobias = {
 ---
 
 <div align="center">
-
-### 🚀 Current Mission
-
-> *"Learning GSAP + React to build Awwwards-level interfaces — 2 hours every day."*
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=100&section=footer&text=Let's+Build+Something+Amazing&fontSize=20&fontColor=white&animation=fadeIn"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=100&section=footer&text=Let's+Ship+Something+Great&fontSize=20&fontColor=white&animation=fadeIn"/>
 </div>
